@@ -1,0 +1,88 @@
+.nav {
+    background-color: #d1cfce;
+
+}
+
+.nav-link {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    margin-left: 50px;
+    background-color: #d1cfce;
+}
+
+ul.nav a:hover {
+    color: #007bff
+}
+
+
+#main-view {
+    background-position: bottom;
+    background-image:  url('../images/main3.png'), linear-gradient(to right, #c2c2c2 0%, #858585 100%);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    margin-bottom: 0px;
+}
+
+
+#about {
+    font-family: 'Roboto', sans-serif;
+    top: 250px;
+    text-align: center;
+}
+
+#title {
+    height: 50px;
+}
+
+#questions {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.question-margin {
+    margin-bottom: 25px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.uppercase-jumbo {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #007bff
+}
+
+#questions i {
+    font-size: 30px;
+    color: #007bff;
+    text-align: center;
+    margin-right: 15px;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+#footer {
+    padding-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #525252;
+    color: #fff;
+    text-align: center;
+    position: relative;
+}
+
+.cv-pdf i {
+    padding-left: 5px;
+    font-size: 20px;
+}
+
+
+.social-links li a i {
+    font-size: 20px;
+}
