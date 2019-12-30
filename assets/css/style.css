@@ -1,3 +1,5 @@
+/*-----------------------------------------------Navbar----------------------------------------*/
+
 .nav {
     background-color: #d1cfce;
 
@@ -14,16 +16,16 @@ ul.nav a:hover {
     color: #007bff
 }
 
+/*-----------------------------------------------Header/Jumbotron----------------------------------------*/
 
 #main-view {
     background-position: bottom;
-    background-image:  url('../images/main3.png'), linear-gradient(to right, #c2c2c2 0%, #858585 100%);
+    background-image: url('../images/main3.png'), linear-gradient(to right, #c2c2c2 0%, #858585 100%);
     background-size: cover;
     height: 100vh;
     width: 100vw;
     margin-bottom: 0px;
 }
-
 
 #about {
     font-family: 'Roboto', sans-serif;
@@ -31,9 +33,7 @@ ul.nav a:hover {
     text-align: center;
 }
 
-#title {
-    height: 50px;
-}
+/*-----------------------------------------------3 Questions----------------------------------------*/
 
 #questions {
     font-family: 'Roboto', sans-serif;
@@ -64,6 +64,9 @@ ul.nav a:hover {
     margin-right: 15px;
 }
 
+
+/*-----------------------------------------------Footer----------------------------------------*/
+
 .inline-block {
     display: inline-block;
 }
@@ -85,4 +88,36 @@ ul.nav a:hover {
 
 .social-links li a i {
     font-size: 20px;
+}
+
+/*--------------------------------------------Resume Landing--------------------------------- */
+
+#resume {
+    font-family: 'Roboto', sans-serif;
+    top: 150px;
+    text-align: center;
+}
+
+/*--------------------------------------------Work History-----------------------------------*/
+
+.top-margin {
+    margin-top: 50px;
+}
+
+.work-history {
+    text-align: center;
+}
+
+.work-history h3 {
+    color: #007bff;
+}
+
+.work-history p {
+    color: #525252;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.bottom-margin {
+    margin-bottom: 50px;
 }
