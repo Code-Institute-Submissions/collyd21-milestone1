@@ -102,17 +102,20 @@ ul.nav a:hover {
 
 .top-margin {
     margin-top: 50px;
+    margin-left: 50px;
+    color: #525252;
+    font-weight: bold;
 }
 
-.work-history {
+.work-experience {
     text-align: center;
 }
 
-.work-history h3 {
+.work-experience h3 {
     color: #007bff;
 }
 
-.work-history p {
+.work-experience p {
     color: #525252;
     margin-left: 30px;
     margin-right: 30px;
@@ -120,4 +123,8 @@ ul.nav a:hover {
 
 .bottom-margin {
     margin-bottom: 50px;
+}
+
+.education {
+    background-color: #fafafa;
 }
