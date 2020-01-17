@@ -27,7 +27,7 @@
 /*-----------------------------------------------Header/Jumbotron----------------------------------------*/
 
 #main-view-large {
-    background-image: url('../images/main3.png'), linear-gradient(to right, #c2c2c2 0%, #858585 100%);
+    background-image: url('../images/portrait.png'), linear-gradient(to right, #c2c2c2 0%, #858585 100%);
     background-position: bottom;
     background-size: cover;
     height: 90vh;
@@ -150,6 +150,7 @@
     color: #fff;
     text-align: center;
     position: relative;
+    width: 100vw;
 }
 
 .cv-pdf i {
