@@ -37,7 +37,7 @@ I have tested the links for my CV download, LinkedIn and Github and used the (ta
 I have also used the W3 HTML Validator to assess my code is valid and conforms to best practices and standards.
 I had issues with getting the Favicon to show up on the tab. I had to rectify this by adding it to the root directory of the project.
 ## Deployment
-A live demo can be found here [Colm Doyle Personal Profile](https://collyd21/github.com/io/milestone1/)
+A live demo can be found here [Colm Doyle Personal Profile](https://collyd21.github.io/milestone1/)
 ## Credits
 ### Content
 All personal information was written by myself. Information as regards to the projects I was been involved in has been taken from my current employers website stsgroup.ie and also some additional information added to these by me.
