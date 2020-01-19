@@ -38,6 +38,8 @@ I have also used the W3 HTML Validator to assess my code is valid and conforms t
 I had issues with getting the Favicon to show up on the tab. I had to rectify this by adding it to the root directory of the project.
 ## Deployment
 A live demo can be found here [Colm Doyle Personal Profile](https://collyd21.github.io/milestone1/)
+
+The webiste is deployed using Github pages, from the master branch of my milestone1 repository. When new commits are added to the repository, the website will update with any changes.
 ## Credits
 ### Content
 All personal information was written by myself. Information as regards to the projects I was been involved in has been taken from my current employers website stsgroup.ie and also some additional information added to these by me.
